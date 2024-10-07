@@ -1,4 +1,4 @@
-# firebase-vue-subscriptions2
+# vue stripe決済サンプル
 
 ## Project setup
 ```
